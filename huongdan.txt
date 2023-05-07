@@ -1,0 +1,4 @@
+1. Cai dat Python
+* Luu y: chi su dung phien ban 3.10.11
+
+2. 
